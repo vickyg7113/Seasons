@@ -3,7 +3,8 @@
   <title>Seasons</title> 
   <meta name="viewport" content="width=device-width,initial-scale=1.0"> 
 <link rel="stylesheet" type="text/css" href="season.css">
-
+<script src="season.js">
+ </script>
 </head> 
  <body>
   <div>
@@ -31,7 +32,7 @@
     <button class="b1" onclick="winter()">Click here to see Winter</button> 
    </div> 
   </div> 
- <script src="season.js">
- </script>
+ 
+
  </body>
 </html>
