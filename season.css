@@ -1,1 +1,28 @@
+body{
+  background-color:grey;
+}
+.b1{
+  border:3px solid black;
+  border-radius:30px;
+  display:flex;
+  flex-wrap:wrap;
+  padding:20px;
+  margin:40px;
+  justify-content:space-around;
+  margin-left:auto;
+  margin-right:auto;
+  font-size:200%;
+}
+#btn{
+  margin-top:50%;
+}
+h1{
+  font-weight:bold;
+  font-size:200%;
+  text-align:center;
+  border:3px solid black;
+  height:100px;
+  line-height:100px;
+  background-color:white;
+}
 
