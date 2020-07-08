@@ -7,9 +7,9 @@
  </script>
 </head> 
  <body>
-  <div>
-  <h1>Seasons</h1> 
-  </div>
+
+
+
   <div> 
    <div id="btn"> 
     <img id="spring"> 
